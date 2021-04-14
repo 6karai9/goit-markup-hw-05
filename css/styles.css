@@ -612,12 +612,12 @@ footer .team-icon-link .icon {
 
 .footer-grid-item:not(:last-child) {
   margin-right: 70px;
-  align-self: baseline;
 }
 
 .footer-grid {
   display: flex;
   flex-basis: calc((100% - 30px) / 2);
+  align-items: baseline;
 }
 
 .examples-link:hover,
