@@ -564,7 +564,7 @@ header {
 
 .footer-paragraph-style {
   color: var(--white-color);
-  font-weight: 700px;
+  font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 20px;
 }
